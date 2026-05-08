@@ -1,13 +1,13 @@
 # Wnano
 
-Wnano is a customized, up-to-date distribution of GNU Nano for Windows. It features a modern version of the editor with a pre-configured purple-themed environment and an organized directory structure.
+Wnano is a customized, up-to-date distribution of GNU Nano for Windows.
 
 ## Installation
 
 To install Wnano, follow these steps:
 
 1. Go to the **Releases** section on the right side of this repository.
-2. Download the **Source code (zip)** of the latest version.
+2. Download the **Source code** of the latest version.
 3. Extract the ZIP file to a location of your choice (e.g., `C:\wnano`).
 
 ## Project Structure
